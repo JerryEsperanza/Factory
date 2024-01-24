@@ -12,3 +12,5 @@ Refer to the UML Class Diagram
 ## UML Class Diagram
 
 ![alt text](PetClinic.png)
+
+[a workaround link](https://github.com/JerryEsperanza/Factory/blob/b488b509c21c7a60955300805c71dceb834b9f1e/src/Main.java)
