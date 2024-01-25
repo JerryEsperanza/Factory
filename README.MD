@@ -13,5 +13,5 @@ Refer to the UML Class Diagram
 
 ![alt text](PetClinic.png)
 
-![View the src directory](https://github.com/JerryEsperanza/Factory/blob/b488b509c21c7a60955300805c71dceb834b9f1e/src/Main.java)
+![View the src directory](https://github.com/JerryEsperanza/Factory/blob/b488b509c21c7a60955300805c71dceb834b9f1e/src/Main.java?raw=true)
 
